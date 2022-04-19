@@ -10,4 +10,4 @@ This repository contain sample unit tests using Jest.
 
 # How to run specific files test
 
-1. run npm run test -- <file-name>
+1. run npm run test -- `<fileName>`
